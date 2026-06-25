@@ -1,0 +1,6 @@
+{
+  "name": "HisabApp",
+  "description": "تطبيق محاسبة ونقطة بيع متطور ومتكامل يعمل دون إنترنت لإدارة المنتجات، الفواتير، العملاء، والمخزون مع تقارير تفاعلية ودعم كامل للغة العربية والوضع المظلم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
